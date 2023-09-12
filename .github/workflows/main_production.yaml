@@ -32,7 +32,7 @@ jobs:
         uses: timheuer/base64-to-file@v1.2
         with:
           fileName: "ecommerce_app_key.jks"
-          fileDir: "/home/runner/work/ecommerce_bloc_app/ecommerce-app-sellerfy/android/app/keystore/"
+          fileDir: "/home/runner/work/ecommerce-app-sellerfy/ecommerce-app-sellerfy/android/app/keystore/"
           encodedString: ${{ secrets.KEYSTORE }}
 
       # Build and sign APK ("-x test" argument is used to skip tests)
