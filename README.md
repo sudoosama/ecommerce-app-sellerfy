@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ecommerce-app-sellerfy
-=======
 # Ecommerce Bloc App
 
 ![coverage][coverage_badge]
@@ -165,4 +162,3 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
->>>>>>> c028af70d02fa558f3763a2b64df87fa337c8544
